@@ -5,13 +5,13 @@ import { useEffect, useRef, useState } from "react";
 
 export const ClientsCarousel = () => {
   const partners = [
-    { id: 1, title: "Google", image: "/Images/partners/google.png" },
-    { id: 2, title: "Ibm", image: "/Images/partners/ibm.png" },
-    { id: 3, title: "Amazon", image: "/Images/partners/amazon.png" },
-    { id: 4, title: "Coca Cola", image: "/Images/partners/cocacola.png" },
-    { id: 5, title: "Microsoft", image: "/Images/partners/Microsoft.png" },
-    { id: 6, title: "Honda", image: "/Images/partners/honda.png" },
-    { id: 7, title: "Siemens", image: "/Images/partners/siemens.png" },
+    { id: 1, title: "Google", image: "/images/partners/google.png" },
+    { id: 2, title: "Ibm", image: "/images/partners/ibm.png" },
+    { id: 3, title: "Amazon", image: "/images/partners/amazon.png" },
+    { id: 4, title: "Coca Cola", image: "/images/partners/cocacola.png" },
+    { id: 5, title: "Microsoft", image: "/images/partners/Microsoft.png" },
+    { id: 6, title: "Honda", image: "/images/partners/honda.png" },
+    { id: 7, title: "Siemens", image: "/images/partners/siemens.png" },
   ];
   const duplicated = [...partners, ...partners];
   const trackRef = useRef(null);

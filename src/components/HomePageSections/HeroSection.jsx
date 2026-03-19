@@ -7,7 +7,7 @@ export default function HeroSection() {
     <section className="relative w-full h-[90vh] flex items-start justify-center text-white">
       {/* Background Image */}
       <Image
-        src="/Images/hero2-bg.png"
+        src="/images/hero2-bg.png"
         alt="Global Trade Logistics"
         fill
         priority

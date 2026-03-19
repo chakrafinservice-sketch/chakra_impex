@@ -26,7 +26,7 @@ import Link from "next/link";
   {
     id: 3,
     title: "Textiles & Garments",
-    img: "/images/products/textiles-garments.webp",
+    img: "/images/products/Textiles-garments.webp",
     short:
       "Export of fabrics, garments, cotton products, and apparel for global markets.",
     long: "We deal in textiles and garments including cotton yarn, fabrics, ready-made garments, and home textiles. Our products are known for quality, durability, and design, serving both fashion and industrial requirements worldwide.",

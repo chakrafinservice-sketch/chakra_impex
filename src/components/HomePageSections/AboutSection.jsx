@@ -79,7 +79,7 @@ export default function AboutSection() {
         {/* LEFT IMAGE */}
         <div className="relative w-full h-[450px] rounded-2xl overflow-hidden shadow-lg">
           <Image
-            src="/Images/about-trade.png" // use shipping/container image
+            src="/images/about-trade.png" // use shipping/container image
             alt="Global Trade Operations"
             fill
             className="object-cover"

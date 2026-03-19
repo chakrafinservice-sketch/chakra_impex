@@ -25,7 +25,7 @@ export default function Header() {
         {/* Logo */}
         <Link href="/" className="flex items-center">
           <Image
-            src="/Images/logo.png"
+            src="/images/logo.png"
             alt="Chakra Financial Services"
             width={170}
             height={60}

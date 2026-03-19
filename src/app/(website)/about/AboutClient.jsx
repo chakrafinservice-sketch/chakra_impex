@@ -120,7 +120,7 @@ export default function AboutPage() {
           {/* IMAGE */}
           <div className="relative h-[300px] md:h-[400px] rounded-2xl overflow-hidden shadow-lg">
             <Image
-              src="/Images/about-trade.png"
+              src="/images/about-trade.png"
               alt="Global Trade"
               fill
               className="object-cover"
@@ -136,7 +136,7 @@ export default function AboutPage() {
           {/* IMAGE */}
           <div className="relative h-[320px] rounded-2xl overflow-hidden shadow-lg">
             <Image
-              src="/images/about/founder.jpg"
+              src="/images/about-trade.png"
               alt="Founder"
               fill
               className="object-cover"

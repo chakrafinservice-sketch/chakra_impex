@@ -220,7 +220,7 @@ export default function ProductsSections() {
     {
       id: 3,
       title: "Textiles & Garments",
-      img: "/images/products/textiles-garments.webp",
+      img: "/images/products/Textiles-garments.webp",
       short:
         "Export of fabrics, garments, cotton products, and apparel for global markets.",
     },

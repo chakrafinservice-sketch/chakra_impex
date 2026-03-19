@@ -159,7 +159,7 @@ export default function ServicesClient() {
         {/* FULL WIDTH IMAGE */}
         <div className="w-full mt-6">
           <Image
-            src="/Images/services/import-export.png"
+            src="/images/services/import-export.png"
             alt="Import Export Services"
             width={1920}
             height={600}
@@ -323,7 +323,7 @@ export default function ServicesClient() {
         {/* FULL WIDTH IMAGE */}
         <div className="w-full mt-6">
           <Image
-            src="/Images/services/trade-facilitation.png"
+            src="/images/services/trade-facilitation.png"
             alt="Trade Facilitation Services"
             width={1920}
             height={600}
@@ -548,7 +548,7 @@ export default function ServicesClient() {
         {/* Full Width Image */}
         <div className="w-full mt-6">
           <Image
-            src="/Images/services/project-management.png"
+            src="/images/services/project-management.png"
             alt="Project Management Consulting Services"
             width={1920}
             height={600}

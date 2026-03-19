@@ -31,7 +31,7 @@ export const metadata = {
     siteName: "Chakra Trading Impex",
     images: [
       {
-        url: "/Images/og-image.jpg", // use your hero/banner image
+        url: "/images/hero2-bg.png",
         width: 1200,
         height: 630,
         alt: "Chakra Trading Impex - Export Import Services",

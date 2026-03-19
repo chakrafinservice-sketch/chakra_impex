@@ -174,7 +174,7 @@ export default function Footer() {
           </div>
           {/* <div className="bg-white p-1 rounded-lg inline-block shadow-md">
             <Image
-              src="/Images/logo.png"
+              src="/images/logo.png"
               alt="Chakra Financial Services"
               width={160}
               height={60}

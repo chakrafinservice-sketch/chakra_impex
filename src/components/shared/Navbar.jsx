@@ -24,7 +24,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto flex items-center justify-between px-6 lg:px-10">
         <Link href="/" className="flex items-center">
           <Image
-            src="/Images/logo.png"
+            src="/images/logo.png"
             alt="Chakra Financial Services"
             width={200}
             height={80}
